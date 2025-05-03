@@ -1,4 +1,4 @@
-// ✅ FILE 7: GeneralPatientList.cpp
+// FILE 7: GeneralPatientList.cpp
 #include "GeneralPatientList.h"
 
 GeneralPatientList::GeneralPatientList() : head(nullptr) {}

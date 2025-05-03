@@ -1,4 +1,4 @@
-// ✅ FILE 6: GeneralPatientList.h
+// FILE 6: GeneralPatientList.h
 #ifndef GENERAL_PATIENT_LIST_H
 #define GENERAL_PATIENT_LIST_H
 #include "Patient.h"
