@@ -1,4 +1,4 @@
-// ✅ FILE 3: EmergencyRoomQueue.cpp
+// FILE 3: EmergencyRoomQueue.cpp
 #include "EmergencyRoomQueue.h"
 
 EmergencyRoomQueue::EmergencyRoomQueue() : front(nullptr), rear(nullptr) {}
